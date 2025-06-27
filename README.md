@@ -15,12 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-An introduction: Write a brief introduction of yourself and your professional background.
-
-Skills: List your technical skills, including any programming languages, frameworks, and tools you are proficient in.
-
-Professional experience: Describe where you've worked before and what sort of professional skills you've built. These can even be non-technical skills, such as communication and empathy.
-
-Some of your best projects: Describe some projects you're proud of. You'll also pin these repositories later, but your README gives you a chance to provide more commentary.
-
-Achievements or awards: Show off any of your achievements, including certifications or awards you've received for your work.
+https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/using-your-github-profile-to-enhance-your-resume
