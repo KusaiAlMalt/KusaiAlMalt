@@ -23,6 +23,7 @@ I'm an IT student at **Chalmers University of Technology**, currently pursuing a
 - Desktop app development  
 - Web development  
 - Embedded systems
+- Game development
 
 **Technologies I've worked with (among others):**  
 Arduino, Django, C# .NET, Python, Java, C/C++, JavaFX, Swing, PyTorch, Haskell, Assembly, JavaScript/TypeScript, React, HTML, CSS
