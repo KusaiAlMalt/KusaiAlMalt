@@ -2,6 +2,8 @@
 
 I'm an IT student at **Chalmers University of Technology**, currently pursuing a Master's in Computer Science. I've been passionate about computers since childhood and am now looking to contribute to real-world projects through a **summer job or internship**.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/kusai-a-5aa19b370/) [![Static Badge](https://img.shields.io/badge/University%20Github%20-%20%23181717?logo=GitHub)](https://github.com/QSI-Official)
+
 ---
 
 ## 🔧 Technical Experience
