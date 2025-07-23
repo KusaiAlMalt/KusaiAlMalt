@@ -9,7 +9,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 new_content = content.replace(
     "{{ graduationCountdown }}",
-    str(days_left)
+    f"{days_left} day{'s' if days_left != 1 else ''}"
 )
 
 with open("README.md", "w", encoding="utf-8") as f:
