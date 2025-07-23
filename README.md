@@ -34,8 +34,7 @@ Arduino, Django, C# .NET, Python, Java, C/C++, JavaFX, Swing, PyTorch, Haskell, 
 
 ## 🚧 Currently Working On
 
-- Building my **GitHub Pages** portfolio  
-- Creating a **GitHub Action** that counts down the days until graduation (auto-updates daily)
+- Building my **GitHub Pages** portfolio
 
 ---
 
