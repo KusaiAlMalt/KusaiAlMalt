@@ -38,4 +38,4 @@ Arduino, Django, C# .NET, Python, Java, C/C++, JavaFX, Swing, PyTorch, Haskell, 
 
 ---
 
-🎓 **Days until graduation:** 1018 days
+🎓 **Days until graduation:** 1017 days
