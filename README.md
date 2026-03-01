@@ -11,4 +11,4 @@ I'm an IT student at **Chalmers University of Technology**, currently pursuing a
 
 ---
 
-🎓 **Days until graduation:** 824 days
+🎓 **Days until graduation:** 823 days
