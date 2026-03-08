@@ -8,6 +8,7 @@ I'm an IT student at **Chalmers University of Technology**, currently pursuing a
 ## 🚧 Currently Working On
 
 - Building my **GitHub Pages** portfolio
+> 🔗 Publicly available university projects I contributed to are forked and published on this GitHub account. For original contribution history, see my [university GitHub](https://github.com/QSI-Official).
 
 ---
 
