@@ -12,4 +12,4 @@ I'm a student at **Chalmers University of Technology**, currently pursuing a Mas
 
 ---
 
-🎓 **Days until graduation:** 641 days
+🎓 **Days until graduation:** 640 days
